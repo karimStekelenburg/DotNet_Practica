@@ -1,0 +1,10 @@
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.exe.config
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.exe
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\bin\Debug\TIcTacToe.pdb
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csprojResolveAssemblyReference.cache
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.Form1.resources
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.Properties.Resources.resources
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csproj.GenerateResource.cache
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.csproj.CoreCompileInputs.cache
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.exe
+Z:\Developer\C#\DotNet_Practica\TIcTacToe\TIcTacToe\obj\Debug\TIcTacToe.pdb
